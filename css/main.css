@@ -7,10 +7,9 @@
 }
 
 .btn {
-  background-color: white;
+  background-color: rgb(218, 77, 218);
   color: black;
   border: none;
-  border-radius: 10px;
   padding: 10px 20px;
   cursor: pointer;
 }
@@ -151,32 +150,32 @@ footer .footer_btn {
   margin: 40px auto;
 }
 .picture_box .icon-1 {
-  background-image: url("../../img12/1.jpg");
+  background-image: url("../img12/1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .picture_box .icon-2 {
-  background-image: url("../../img12/2.jpg");
+  background-image: url("../img12/2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .picture_box .icon-3 {
-  background-image: url("../../img12/3.jpg");
+  background-image: url("../img12/3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .picture_box .icon-4 {
-  background-image: url("../../img12/4.jpg");
+  background-image: url("../img12/4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .picture_box .icon-5 {
-  background-image: url("../../img12/5.jpg");
+  background-image: url("../img12/5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .picture_box .icon-6 {
-  background-image: url("../../img12/6.jpg");
+  background-image: url("../img12/6.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }/*# sourceMappingURL=main.css.map */
