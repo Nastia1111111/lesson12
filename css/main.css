@@ -52,6 +52,11 @@
   text-align: center;
 }
 
+html {
+  scroll-behavior: smooth;
+  height: 100%;
+}
+
 body {
   width: 100vw;
   display: grid;
